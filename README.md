@@ -11,3 +11,8 @@ Comando para alterar o nome da branch atual
 ```bash
 $ git branch -m <new-name>
 ```
+
+Comando para adicionar a fila de commit
+```bash
+$ git add <archiveName.c>
+```
