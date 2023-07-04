@@ -37,3 +37,14 @@ Comando para mostrar a sua atividade realizada, seus processos realizados em lin
 $ git log
 ```
 
+Comando para mostrar a sua atividade realizada, seus processos realizados em linha do tempo
+```bash
+$ git log
+```
+
+Comando para mostrar a diferença entre arquivos, arvores, e afins
+```bash
+$ git diff [<options>] <commit>…​<commit> [--] [<path>…​]
+```
+
+
