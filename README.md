@@ -16,3 +16,8 @@ Comando para adicionar a fila de commit
 ```bash
 $ git add <archiveName.c>
 ```
+
+Comando para restaurar algum arquivo ou projeto por completo.
+```bash
+$ git restore <archiveName.c>
+```
