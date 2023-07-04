@@ -31,3 +31,9 @@ Comando para subir "salvar os arquivos" com historico no git hub
 ```bash
 $ git commit -m "description"
 ```
+
+Comando para mostrar a sua atividade realizada, seus processos realizados em linha do tempo
+```bash
+$ git log
+```
+
