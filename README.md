@@ -56,6 +56,19 @@ Comando para alterar entre ramificações
 ```bash
 $ git switch <branch>
 ```
+Comando para criar e ir para ramificações 
+```bash
+$ git --create switch <branch>
+```
+Comando para mergir branchs (tem que estar presente na branch a ser alterada)
+```bash
+$ git merge <branch>
+```
+Comando para deletar ramificações 
+```bash
+$ git -D <branch>
+```
+
 sdfsvaadjhaofh
 dfhwifno
 
