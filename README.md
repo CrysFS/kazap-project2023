@@ -52,3 +52,8 @@ Comando para reverter a situação do git, pode ser usado de modo redundante!
 $ git revert [hashCode(log)​]
 ```
 
+Comando para alterar entre ramificações 
+```bash
+$ git switch <branch>
+```
+
