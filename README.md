@@ -21,3 +21,8 @@ Comando para restaurar algum arquivo ou projeto por completo.
 ```bash
 $ git restore <archiveName.c>
 ```
+
+Comando mostrar a prontidão dos arquivos para commit
+```bash
+$ git status
+```
