@@ -47,4 +47,8 @@ Comando para mostrar a diferença entre arquivos, arvores, e afins
 $ git diff [<options>] <commit>…​<commit> [--] [<path>…​]
 ```
 
+Comando para reverter a situação do git, pode ser usado de modo redundante!
+```bash
+$ git revert [hashCode(log)​]
+```
 
